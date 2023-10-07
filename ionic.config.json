@@ -1,0 +1,7 @@
+{
+  "name": "moviestvmaze",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
