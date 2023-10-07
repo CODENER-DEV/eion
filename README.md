@@ -12,10 +12,6 @@ $ git clone https://github.com/CODENER-DEV/eion.git
 $ cd ../path/to/the/file
 ```
 
-## Instalar Node JS
-Descargar la versión mas reciente
-https://nodejs.org/es
-
 ## Ejecutar APK
 Adjunto el archivo APK eion.apk en la raíz del proyecto para su instalación en el dispositivo físico
 
