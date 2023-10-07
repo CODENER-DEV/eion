@@ -2,6 +2,10 @@
 
 App en la cual se consumen películas de la API de TVMAZE
 
+## Instalar Node JS y NPM
+Descargar la versión mas reciente
+https://nodejs.org/es
+
 ## Descargar proyecto
 ```
 $ git clone https://github.com/CODENER-DEV/eion.git
